@@ -1,0 +1,6 @@
+valid mail:test@test.ru
+valid mail:w@w.com
+valid mail:123QWE@mmm.mmm
+invalid mail:test@test.
+invalid mail:w@
+invalid mail:@tt
